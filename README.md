@@ -7,6 +7,8 @@ Compounent
   - NO2 Digital SPEC Sensor 
   - O3 Digital SPEC Sensor 
   - CO Digital SPEC Sensor 
+  - Winsen ZH03A Particulate Sensor
+  - BME280 RTH Sensor
   - ST7735 TFT 1.8 160x128 
   - MOSFET Driver Module with Optocoupler
   - 12v Air Pump
